@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MAUI\\LiveLocationTracking\\LiveTrackingInBackgroundMaui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F89842C-880D-419A-AC9B-B09BE2844B99}|LiveTrackingInBackgroundMaui.csproj|d:\\maui\\livelocationtracking\\livetrackinginbackgroundmaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F89842C-880D-419A-AC9B-B09BE2844B99}|LiveTrackingInBackgroundMaui.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F89842C-880D-419A-AC9B-B09BE2844B99}|LiveTrackingInBackgroundMaui.csproj|d:\\maui\\livelocationtracking\\livetrackinginbackgroundmaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4F89842C-880D-419A-AC9B-B09BE2844B99}|LiveTrackingInBackgroundMaui.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F89842C-880D-419A-AC9B-B09BE2844B99}|LiveTrackingInBackgroundMaui.csproj|d:\\maui\\livelocationtracking\\livetrackinginbackgroundmaui\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F89842C-880D-419A-AC9B-B09BE2844B99}|LiveTrackingInBackgroundMaui.csproj|solutionrelative:messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\MAUI\\LiveLocationTracking\\LiveTrackingInBackgroundMaui\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "D:\\MAUI\\LiveLocationTracking\\LiveTrackingInBackgroundMaui\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAA9wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T05:52:13.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "D:\\MAUI\\LiveLocationTracking\\LiveTrackingInBackgroundMaui\\Messages.cs",
+              "RelativeDocumentMoniker": "Messages.cs",
+              "ToolTip": "D:\\MAUI\\LiveLocationTracking\\LiveTrackingInBackgroundMaui\\Messages.cs",
+              "RelativeToolTip": "Messages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T05:53:53.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\MAUI\\LiveLocationTracking\\LiveTrackingInBackgroundMaui\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "D:\\MAUI\\LiveLocationTracking\\LiveTrackingInBackgroundMaui\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-12T05:52:07.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
